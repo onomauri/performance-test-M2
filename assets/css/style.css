@@ -172,16 +172,6 @@ h1, h2, h3 {
 }
 
 
-
-
-
-
-/* Puedes usar esto si quieres centrar contenido */
-/* .container {
-    margin: 0 auto;
-} */
-
-
 @media (max-width: 768px) {
     .logo {
         font-size: 1.5rem;
@@ -214,7 +204,7 @@ h1, h2, h3 {
     display: block; 
   }
   .nav_list {
-    flex-direction: column; /* Los links se ponen uno debajo de otro */
+    flex-direction: column;
     padding: 1em;
   }
 
